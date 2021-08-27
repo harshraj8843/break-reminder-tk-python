@@ -4,20 +4,6 @@
 
 <h3 align="center">Break Reminder</h3>
 
-<div align="center">
-
-[![License](https://img.shields.io/github/license/harshraj8843/break-reminder-tk-python)](https://github.com/harshraj8843/break-reminder-tk-python/blob/master/LICENSE.md) [![Github Repo Size](https://img.shields.io/github/repo-size/harshraj8843/break-reminder-tk-python)](https://github.com/harshraj8843/break-reminder-tk-python) [![Github Download](https://img.shields.io/github/downloads/harshraj8843/break-reminder-tk-python/total)](https://github.com/harshraj8843/break-reminder-tk-python)
-
-[![Github Stars](https://img.shields.io/github/stars/harshraj8843/break-reminder-tk-python?style=social)](https://github.com/harshraj8843/break-reminder-tk-python/stargazers) [![Github Forks](https://img.shields.io/github/forks/harshraj8843/break-reminder-tk-python?style=social)](https://github.com/harshraj8843/break-reminder-tk-python/network/members) [![Github Watchers](https://img.shields.io/github/watchers/harshraj8843/break-reminder-tk-python?style=social)](https://github.com/harshraj8843/break-reminder-tk-python/watchers)
-
-[![GitHub Issues](https://img.shields.io/github/issues/harshraj8843/break-reminder-tk-python)](https://github.com/harshraj8843/break-reminder-tk-python/issues) [![Github Closed Issues](https://img.shields.io/github/issues-closed/harshraj8843/break-reminder-tk-python)](https://github.com/harshraj8843/break-reminder-tk-python/issues?q=is%3Aissue+is%3Aclosed)
-
-[![Github Release](https://img.shields.io/github/v/release/harshraj8843/break-reminder-tk-python)](https://github.com/harshraj8843/break-reminder-tk-python) [![Github Release Date](https://img.shields.io/github/release-date/harshraj8843/break-reminder-tk-python)](https://github.com/harshraj8843/break-reminder-tk-python)
-
-[![Github Contributors](https://img.shields.io/github/contributors/harshraj8843/break-reminder-tk-python)](https://github.com/harshraj8843/break-reminder-tk-python/graphs/contributors) [![Github Last Commit](https://img.shields.io/github/last-commit/harshraj8843/break-reminder-tk-python)](https://github.com/harshraj8843/break-reminder-tk-python/graphs/commit-activity) [![Github Discession](https://img.shields.io/github/discussions/harshraj8843/break-reminder-tk-python)](https://github.com/harshraj8843/break-reminder-tk-python/discussions) [![Twitter Follow](https://img.shields.io/twitter/follow/harshraj8843?style=social&label=Follow)](https://twitter.com/harshraj8843?ref_src=twsrc%5Etfw) [![Twitter Mention](https://img.shields.io/twitter/url?label=%40Mention&style=social&url=https://twitter.com/harshraj8843)](https://twitter.com/intent/tweet?screen_name=harshraj8843&ref_src=twsrc%5Etfw)
-
-</div>
-
 ---
 
 ## 📝 Table of Contents
