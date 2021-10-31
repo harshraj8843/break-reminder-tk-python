@@ -12,7 +12,6 @@
 - [Features](feature)
 - [Getting Started](#getting_started)
 - [Built Using](#built_using)
-- [Authors](#authors)
 - [Motive](#motive)
 - [Sample images](#images)
 
@@ -36,7 +35,7 @@ After timer completes
 
 - clone project
   ```
-  git clone https://github.com/harshraj8843/break-reminder-tk-python
+  git clone https://github.com/novicexp/break-reminder-tk-python
   ```
   ```
   cd break-reminder-tk-python/
@@ -54,10 +53,6 @@ After timer completes
 
 - [Python3](https://www.python.org/)
 - [tkinter](https://docs.python.org/3/library/tkinter.html)
-
-## ✍️ Authors <a name = "authors"></a>
-
-- [@harshraj8843](https://github.com/harshraj8843)
 
 ## 🤔 Motive <a name = "motive"></a>
 
