@@ -12,7 +12,6 @@
 - [Features](feature)
 - [Getting Started](#getting_started)
 - [Built Using](#built_using)
-- [Motive](#motive)
 - [Sample images](#images)
 
 ## 🧐 About <a name = "about"></a>
@@ -35,7 +34,7 @@ After timer completes
 
 - clone project
   ```
-  git clone https://github.com/novicexp/break-reminder-tk-python
+  git clone https://github.com/harshraj8843/break-reminder-tk-python
   ```
   ```
   cd break-reminder-tk-python/
@@ -54,16 +53,6 @@ After timer completes
 - [Python3](https://www.python.org/)
 - [tkinter](https://docs.python.org/3/library/tkinter.html)
 
-## 🤔 Motive <a name = "motive"></a>
-
-I spend most of my day in front of my 🧑🏻‍💻. So, i have to sit at one place for too long hours. And it's not good for my health (I'm feeling it 😒).
-
-So, i need something/someone to remind me frequently that i need to take short breaks after some interval of time (for stretching or for refreshment).
-
-So, i developed this script.
-
-Hope it will help you too 🥰
-
 ## 🪄 Sample Images <a name = "images"></a>
 
 <p align="center">
@@ -80,5 +69,3 @@ Successfully tested on
 
 - Ubuntu 20.04 LTS
   - Python 3.8.5
-
-The GUI is so simple (because i am using Tkinter first time 😅) and it should be 😎.
